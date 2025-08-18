@@ -1,0 +1,7 @@
+anekdots.json
+.env
+venv/
+.aider*
+*.swp
+cat_b/
+qdrant_db/
